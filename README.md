@@ -6,4 +6,4 @@ Cuento con habilidades destacadas en la planificación, organización y direcci�
 
 Además, poseo una profunda sensibilidad social y cultural, lo que me permite gestionar iniciativas que no solo generan valor tecnológico, sino que también fortalecen el tejido comunitario y respetan el entorno en el que se desarrollan. Esta visión me impulsa a liderar proyectos con responsabilidad, fomentando la cooperación, la mejora continua y el desarrollo sustentable.
 
-En síntesis, soy un profesional enfocado en construir soluciones tecnológicas estratégicas que impulsen el crecimiento organizacional, optimicen procesos y contribuyan a un futuro más equitativo, eficiente y humano.
+Me enfoco en construir soluciones tecnológicas estratégicas que impulsen el crecimiento organizacional, optimicen procesos y contribuyan a un futuro más equitativo, eficiente y humano.
