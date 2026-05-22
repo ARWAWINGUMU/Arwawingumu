@@ -88,7 +88,7 @@ Plataforma moderna para gestión comercial y administrativa.
 
 <br><br>
 
-<a href="https://github.com/ARWAWINGUMU">
+<a href="https://github.com/ARWAWINGUMU/MeynaPos">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -96,13 +96,13 @@ Plataforma moderna para gestión comercial y administrativa.
 
 <td width="33%" align="center">
 
-<h3>🌎 Plataforma Indígena</h3>
+<h3>🌎 Plataforma SmarBite</h3>
 
 <p>
-Sistema de información y gestión para organizaciones indígenas.
+Guía de alimentación y recetas para una dieta balanceada.
 </p>
 
-<img src="https://via.placeholder.com/300x180.png?text=Plataforma+Indigena" width="100%" />
+<img src="https://via.placeholder.com/300x180.png?text=Plataforma+Comer+Sano" width="100%" />
 
 <br><br>
 
@@ -111,7 +111,7 @@ Sistema de información y gestión para organizaciones indígenas.
 
 <br><br>
 
-<a href="https://github.com/TUUSUARIO">
+<a href="https://github.com/cxbeltzz/SmartBite">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -119,10 +119,10 @@ Sistema de información y gestión para organizaciones indígenas.
 
 <td width="33%" align="center">
 
-<h3>🤖 Herramientas IA</h3>
+<h3>🤖 Asignación de Residencias</h3>
 
 <p>
-Automatización e inteligencia artificial aplicada a soluciones reales.
+Automatización eficiente y priorizada de residencias universitarias en la Universidad Nacional de Colombia.
 </p>
 
 <img src="https://via.placeholder.com/300x180.png?text=AI+Tools" width="100%" />
@@ -134,7 +134,7 @@ Automatización e inteligencia artificial aplicada a soluciones reales.
 
 <br><br>
 
-<a href="https://github.com/TUUSUARIO">
+<a href="https://github.com/natalialesmes/Residencias_unal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
