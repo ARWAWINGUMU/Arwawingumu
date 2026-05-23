@@ -17,7 +17,8 @@
 ## 🚀 Sobre mí
 
 * 💻 **Ingeniero de Sistemas y Computación** graduado de la Universidad Nacional de Colombia.
-* 🌎 **Desarrollador Full Stack** con experiencia en la creación de plataformas web y de escritorio robustas.
+* 💻 **Magíster en Ingeniería de Sistemas y Computación**, Desarrollo de Software.
+* 🌎 **Desarrollador Full Stack** con experiencia en la creación de plataformas web y de escritorio robustas, integración de bases de datos e inteligencia aritificial.
 * 🤖 Interesado profundamente en la **Inteligencia Artificial**, automatización y analítica de datos.
 * 🏔️ Apasionado por integrar la **tecnología, la cultura y el territorio** para generar impacto social.
 * 📚 Entusiasta del **Open Source** y de la construcción de soluciones comunitarias innovadoras.
