@@ -73,6 +73,7 @@
       <p>Automatización y clasificación con IA de los proyectos de extensión en la Universidad Nacional de Colombia.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
       <a href="https://github.com/camicasss/SistemasInteligentes" target="_blank">
