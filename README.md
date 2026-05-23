@@ -63,114 +63,69 @@
 </p>
 
 ---
-
 <h2>📌 Proyectos Destacados</h2>
 
 <div align="center">
+<table width="100%">
+  <!-- FILA 1: Primeros dos proyectos -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🚀 Sistema POS</h3>
+      <p>Plataforma moderna para gestión comercial y administrativa.</p>
+      <img src="https://via.placeholder.com/300x180.png?text=Sistema+POS" width="85%" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <br><br>
+      <a href="https://github.com/ARWAWINGUMU/MeynaPos">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
 
-<table>
-<tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🤖 Observatorio de proyectos</h3>
+      <p>Automatización de clasificación con Inteligencia Artificial proyectos de extensión de la Universidad Nacional de Colombia.</p>
+      <img src="https://via.placeholder.com/300x180.png?text=AI+Tools" width="85%" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <br><br>
+      <a href="https://github.com/camicasss/SistemasInteligentes">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
-<td width="33%" align="center">
+  <!-- FILA 2: Siguientes dos proyectos -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🌎 Plataforma SmarBite</h3>
+      <p>Guía de alimentación y recetas para una dieta balanceada.</p>
+      <img src="https://via.placeholder.com/300x180.png?text=Plataforma+Comer+Sano" width="85%" />
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <br><br>
+      <a href="https://github.com/cxbeltzz/SmartBite">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
 
-<h3>🚀 Sistema POS</h3>
-
-<p>
-Plataforma moderna para gestión comercial y administrativa.
-</p>
-
-<img src="https://via.placeholder.com/300x180.png?text=Sistema+POS" width="100%" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/ARWAWINGUMU/MeynaPos">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-
-<td width="33%" align="center">
-
-<h3>🤖 Observatorio de proyectos</h3>
-
-<p>
-Automatización de clasificación con Inteligencia Artificial proyectos de extensión de la Universidad Nacional de Colombia.
-</p>
-
-<img src="https://via.placeholder.com/300x180.png?text=AI+Tools" width="100%" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://github.com/camicasss/SistemasInteligentes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-
-
-<td width="33%" align="center">
-
-<h3>🌎 Plataforma SmarBite</h3>
-
-<p>
-Guía de alimentación y recetas para una dieta balanceada.
-</p>
-
-<img src="https://via.placeholder.com/300x180.png?text=Plataforma+Comer+Sano" width="100%" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/cxbeltzz/SmartBite">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🤖 Asignación de Residencias</h3>
-
-<p>
-Automatización eficiente y priorizada de residencias universitarias en la Universidad Nacional de Colombia.
-</p>
-
-<img src="https://via.placeholder.com/300x180.png?text=AI+Tools" width="100%" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://github.com/natalialesmes/Residencias_unal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🤖 Asignación de Residencias</h3>
+      <p>Automatización eficiente y priorizada de residencias universitarias en la Universidad Nacional de Colombia.</p>
+      <img src="https://via.placeholder.com/300x180.png?text=AI+Tools" width="85%" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <br><br>
+      <a href="https://github.com/natalialesmes/Residencias_unal">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
-
 </div>
-
 ---
 
 <h2>📊 GitHub Analytics</h2>
