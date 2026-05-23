@@ -94,6 +94,32 @@ Plataforma moderna para gestión comercial y administrativa.
 
 </td>
 
+
+<td width="33%" align="center">
+
+<h3>🤖 Observatorio de proyectos</h3>
+
+<p>
+Automatización de clasificación con Inteligencia Artificial proyectos de extensión de la Universidad Nacional de Colombia.
+</p>
+
+<img src="https://via.placeholder.com/300x180.png?text=AI+Tools" width="100%" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/camicasss/SistemasInteligentes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+
+
 <td width="33%" align="center">
 
 <h3>🌎 Plataforma SmarBite</h3>
