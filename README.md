@@ -129,12 +129,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARWAWINGUMU&theme=tokyonight&row=1&column=7" alt="Trofeos de Yeiner" />
-</p>
-
 ---
 
 ## ⚡ Filosofía
